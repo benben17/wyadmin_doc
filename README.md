@@ -13,8 +13,8 @@
   * 建议分辨率：1280\*1024 以上像素
   *   浏览器下载地址：
 
-      * Windows 最新 32 位系统 Chrome [下载地址](https://downloads.creams.io/chrome/Google\_Chrome\_32bit\_v77.0.3865.90.exe)
-      * Windows 最新 64 位系统 Chrome [下载地址](https://downloads.creams.io/chrome/Google\_Chrome\_64bit\_v77.0.3865.90.exe)
+      * Windows 最新 32 位系统 Chrome&#x20;
+      * Windows 最新 64 位系统 Chrome&#x20;
 
 
 
