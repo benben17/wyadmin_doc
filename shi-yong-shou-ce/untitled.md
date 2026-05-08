@@ -8,8 +8,7 @@ Firfox 或者Chrome最新版本，浏览器安装完成之后开始系统登陆
 
 ### 登录
 
-输入系统地址 [app.stararea.cn](http://app.stararea.cn)\
-
+输入系统地址 [app.stararea.cn](http://app.stararea.cn)<br>
 
 ![](<../.gitbook/assets/image (54).png>)
 
