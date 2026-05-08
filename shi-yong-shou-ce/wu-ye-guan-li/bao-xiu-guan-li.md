@@ -22,7 +22,7 @@ description: 报修工单
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>报修新建</p></figcaption></figure>
 
-### 排单
+### 派单
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>派单</p></figcaption></figure>
 
@@ -30,10 +30,12 @@ description: 报修工单
 
 工程类型：可在设置中添加
 
-维修金额：没有金额填0
+维修金额：没有金额填0，维修金额大于0 且维修完成会自动到运营管理-》应收
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>维修</p></figcaption></figure>
 
 ### 关闭工单
+
+关闭工单并评价
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>关闭工单</p></figcaption></figure>
